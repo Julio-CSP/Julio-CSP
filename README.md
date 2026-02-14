@@ -19,7 +19,8 @@ Me especializo en el uso de **R** y herramientas bioinformáticas para la optimi
 ---
 
 ## 📬 Conectemos
-* **LinkedIn:** [https://www.linkedin.com/in/julio-santos-pelaez/]
-* * **Google Scholar:**[https://scholar.google.com/citations?hl=es&user=UGdLb1MAAAAJ]
-* **ORCID:** [0000-0001-7871-6920]
-* **X:** [https://x.com/JulioCSP18]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-santos-pelaez/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=es&user=UGdLb1MAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7871-6920)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JulioCSP18)
